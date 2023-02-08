@@ -12,5 +12,18 @@ td,th{
 
 img{
     width:200px;
-    height:cls150px;
+    height:150px;
+}
+ul{
+    list-style-type: circle;
+}
+form{
+    padding:20px;
+    border-style:solid;
+    margin:0 350px;
+    text-align: justify;
+}
+form h3{
+    border-style: dotted;
+    text-align: center;
 }
