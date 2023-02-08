@@ -1,0 +1,16 @@
+table{
+    border-collapse: collapse;
+    width:fit-content;
+}
+
+td,th{
+    border: 1.5px solid;
+    border-style: double;
+    text-align:justify;
+    padding:6px;
+}
+
+img{
+    width:200px;
+    height:150px;
+}
