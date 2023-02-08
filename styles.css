@@ -1,3 +1,8 @@
+*{
+    color:black;
+    text-size-adjust: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 table{
     border-collapse: collapse;
     width:fit-content;
@@ -26,4 +31,16 @@ form{
 form h3{
     border-style: dotted;
     text-align: center;
+}
+.flex-box{
+    display:flex;
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+    flex-flow: row;
+    margin:30px;
+}
+.flex-box div{
+    border-style: solid;
+    text-align: justify
+    padding:2em;
 }
